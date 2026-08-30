@@ -1,0 +1,13 @@
+{
+  "name": "internship-api",
+  "version": "1.0.0",
+  "description": "REST API for internship records with validation, pagination, and SQLite persistence.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "express-validator": "^7.2.0"
+  }
+}
